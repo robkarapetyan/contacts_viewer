@@ -23,7 +23,7 @@ private slots:
     void fileOpen();
     void fileSave();
 public:
-    QTableWidget m_tableWidget;
+    std::unique_ptr<QTableWidget> m_tableWidget = nullptr;
     QToolBar m_toolbar;
     QGridLayout m_layout;
     QLabel m_label;
@@ -31,6 +31,7 @@ private:
     void initView();
     void initToolbar();
     JsonHandler jsonHandler;
+    void resetTable();
 };
 
 #endif // MAINWIDGET_H
