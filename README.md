@@ -34,4 +34,4 @@ MSVC17
 /test.json is provided for testing purposes,wich contains cntacts list.
 
 # Executables
-[Windows x64 archive](https://github.com/robkarapetyan/contacts_viewer/releases/download/v1.0/releease_win_64.rar)
+[Windows_x64 archive](https://github.com/robkarapetyan/contacts_viewer/releases/download/v1.0/releease_win_64.rar)
