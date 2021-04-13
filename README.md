@@ -29,3 +29,6 @@ make
 Qt 5.13.2 / 
 QtCreator 5.14.2 <br>
 MSVC17
+
+# Tests
+/test.json is provided for testing purposes,wich contains cntacts list.
