@@ -31,7 +31,7 @@ QtCreator 5.14.2 <br>
 MSVC17
 
 # Tests
-/test.json is provided for testing purposes,wich contains cntacts list.
+/test.json contains cntacts list for testing purposes.
 
 # Executables
 [Windows_x64 archive](https://github.com/robkarapetyan/contacts_viewer/releases/download/v1.0/release_win_64.rar)
