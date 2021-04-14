@@ -2,8 +2,8 @@
  A simple program to view, edit and save information from .json file containing
  name, surname, number formated data. Name and surname are stored in string format
  but number is decimal, program itself won't check for inserted
- data correctness for number and if no way to convert it to decimalit will save as "0".
- Number also can take maximum 19 digits of decimal number.
+ data correctness for number and if no way to convert it to decimal it will save as "0".
+ Number also can take maximum 19 digit decimal numbers.
 
 # Build Dependencies
 To successfully build on debian based OS:<br>
